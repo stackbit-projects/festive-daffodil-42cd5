@@ -9,7 +9,7 @@ order: 2
 category: src/pages/category/cactuses.md
 section: Store
 template: product
-featured: true
+featured: false
 ---
 
 # Integer porta
