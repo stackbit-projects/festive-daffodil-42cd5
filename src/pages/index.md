@@ -16,11 +16,6 @@ sections:
         url: /store
         arrow: true
         style: primary
-      - title: lorem-ipsum
-        url: lorem-ipsum
-        style: primary
-        arrow: false
-        type: action
     background_image: images/header.jpg
   - type: featured_products_section
     section_id: best_sellers_section
