@@ -8,7 +8,7 @@ default_original_image: images/plant9-lg.jpg
 featured: true
 order: 9
 category: src/pages/category/cactuses.md
-section: Store
+section: About
 template: product
 ---
 
