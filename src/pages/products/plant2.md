@@ -7,7 +7,7 @@ default_thumbnail_image: images/plant2.jpg
 default_original_image: images/plant2-lg.jpg
 order: 2
 category: src/pages/category/cactuses.md
-section: Store
+section: Home
 template: product
 featured: false
 ---
